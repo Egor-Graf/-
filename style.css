@@ -42,7 +42,7 @@ main.main{
   .card-text2{font-size: 16px;}
 	.card-title1{font-size: 40px; margin-top: 100px;}
   .card-title2{font-size: 24px; color: red;}
-  .card-title3{font-size: 24px; color: red;}
+  .card-title3{font-size: 24px; color: red; text-transform: uppercase;}
   .card-title4{font-size: 32px;}
 	.mob_header_btn{text-align: center;}
   .Text{display: flex;flex-direction: column-reverse;align-items: flex-start;}
@@ -50,7 +50,7 @@ main.main{
   .p2{font-size: 24px; color: red;}
   .p3{font-size: 12px;}
   .p4{font-size: 9px;}
-  .h1{font-size: 32px;}
+  .h1{font-size: 32px; text-transform: uppercase;}
   .li1{font-size: 16px;}
   .form-label{font-size: 12px;}
   .form-control{font-size: 12px;}
