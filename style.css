@@ -20,7 +20,7 @@ main.main{
 }
 
 .card-title1{font-size: 70px;}
-.card-title2{font-size: 24px; color: red;}
+.card-title2{font-size: 24px; color: red; text-transform: uppercase;}
 .card-title3{font-size: 48px; color: red; text-transform: uppercase;}
 .card-title4{font-size: 64px;}
 .card-text1{font-size: 50px;}
@@ -41,7 +41,7 @@ main.main{
 	.card-text1{font-size: 25px;}
   .card-text2{font-size: 16px;}
 	.card-title1{font-size: 40px; margin-top: 100px;}
-  .card-title2{font-size: 24px; color: red;}
+  .card-title2{font-size: 24px; color: red; text-transform: uppercase;}
   .card-title3{font-size: 24px; color: red; text-transform: uppercase;}
   .card-title4{font-size: 32px;}
 	.mob_header_btn{text-align: center;}
